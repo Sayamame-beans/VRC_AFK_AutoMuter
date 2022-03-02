@@ -1,10 +1,11 @@
 # VRC_AFK_AutoMuter
 "VRChat"にて、AFK移行時に自動でミュートするOSCツールです。
 
-## 開発環境について
+## 開発環境と動作確認済み環境について
 
-Python 3.9.2
-python-osc 1.8.0
+- Windows 10
+- Python 3.9.2
+  - python-osc 1.8.0
 
 ## 使い方
 Releasesページ、またはBoothにてexeファイルを配布しています。
@@ -38,4 +39,4 @@ optional arguments:
 ## ライセンスについて
 MITライセンスです。
 大雑把に言うと、使用用途自由で、商用利用も可能、改造も可能。
-ただし、改造の有無にかかわらず、再配布する場合はライセンス表記と著作権表示(`Copyright (c) 2022 Sayamame-beans`)してください、という感じです。
+ただし、改造の有無にかかわらず、再配布する場合はライセンスファイルの同梱と著作権表示(`Copyright (c) 2022 Sayamame-beans`)をしてください、という感じです。
