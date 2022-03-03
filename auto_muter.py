@@ -6,7 +6,7 @@ from pythonosc import udp_client
 from pythonosc.dispatcher import Dispatcher
 
 class AutoMuter:
-    VERSION = "0.1.0"
+    VERSION = "0.1.1"
     DEFAULT_OSC_TX_IP = "127.0.0.1"
     DEFAULT_OSC_TX_PORT = 9000
     DEFAULT_OSC_RX_IP = "127.0.0.1"
